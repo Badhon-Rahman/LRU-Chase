@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1563373594 source:c:\badhon\lru chase\main.cpp
+	<iostream>
+	<map>
+
